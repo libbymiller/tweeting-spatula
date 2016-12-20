@@ -1,6 +1,6 @@
 # tweeting-spatula
 
-This is mostly code from https://github.com/soramimi/ESP8266Tweet
+This is mostly code from the incredible https://github.com/soramimi/ESP8266Tweet
 
 I used a gyroscope and a Wemos D1 mini
 
